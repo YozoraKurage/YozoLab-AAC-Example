@@ -7,7 +7,7 @@ ReleasesもしくはMainブランチよりダウンロードしてお使いく�
 付属のソースコードを読んで一緒におべんきょをしましょう、私もよくわかんないです
 
 ### ChangeLog
-- V0.1.0
-AAPとオブジェクトトグルのサンプルの追加
+#### V0.1.0
+- AAPとオブジェクトトグルのサンプルの追加
 
 AAC : https://github.com/hai-vr/av3-animator-as-code
